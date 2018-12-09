@@ -11,8 +11,8 @@
 ### add_argument
 
 ```python
-ArgumentParser.add_argument(name or flags...[, action][, nargs][, const][, default][, type][, choices][, required][, help]
-[, metavar][, dest])
+ArgumentParser.add_argument(name or flags...[, action][, nargs][, const][, default][, type][, choices][, required]
+[, help][, metavar][, dest])
 ```
 
 每个参数解释如下:
