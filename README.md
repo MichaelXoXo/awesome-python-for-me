@@ -46,6 +46,11 @@
 - [What does -> mean in Python function definitions?](https://stackoverflow.com/questions/14379753/what-does-mean-in-python-function-definitions)
 - [Function Annotations](https://www.python.org/dev/peps/pep-3107/)
 
+### Python 与鸭子类型
+- [wiki-鸭子类型](https://zh.wikipedia.org/wiki/%E9%B8%AD%E5%AD%90%E7%B1%BB%E5%9E%8B#%E5%9C%A8Python%E4%B8%AD)
+- [刘志军-Python：动态语言与鸭子类型](https://foofish.net/dynamic_type_and_duck_type.html)
+- [yunlong-python与鸭子类型](http://ylzheng.com/2016/05/19/python-with-polymorphism/)
+- [廖雪峰-继承和多态](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/001431865288798deef438d865e4c2985acff7e9fad15e3000)
 
 ### Python常量设计
 
